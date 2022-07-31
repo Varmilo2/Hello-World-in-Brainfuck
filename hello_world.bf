@@ -1,5 +1,5 @@
 Hello, World! in Brainfuck.
-To run the code use a online compiler.
+To run the code use an online compiler.
 
 >++++++++[<+++++++++>-]<.
 >++++[<+++++++>-]<+.
